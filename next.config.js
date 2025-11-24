@@ -7,9 +7,7 @@ const nextConfig = {
 
   // Required to remove cross-origin warnings during development
   // Replace YOUR-VERCEL-URL with your actual deployed domain
-  allowedDevOrigins: [
-    'http://localhost:3000'
-  ],
+
 };
 
 module.exports = nextConfig;
